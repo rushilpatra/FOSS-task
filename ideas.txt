@@ -6,3 +6,8 @@ Geekheaven can work on a social network for inter and intra wing communication a
 Medha Tiwari
 IEC2020063
 If possible we can work on erp_portal 2.0
+
+Rushil Patra
+IIB2020005
+We can work on a platform which has all resources and courses for different subjects and technologies
+And take feedback from the users and using the feed back we can rank the courses.
